@@ -1,0 +1,113 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #b9cfeb;
+    padding: 7px;
+}
+
+header a {
+    text-decoration: none;
+    border: 3px solid blue;
+    border-radius: 5px;
+    padding: 3px;
+    color: white;
+    background-color: blue;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(73, 73, 208);
+}
+
+footer {
+    background-color: rgb(73, 73, 208);
+    padding: 3px;
+}
+
+footer p {
+    background-color: white;
+}
+
+nav {
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    background-color: rgb(100, 123, 176);
+    border: 5px solid rgb(100, 123, 176);
+    border-radius: 10px;
+    color: white;
+    margin: 10px;
+}
+
+select {
+    padding: 5px;
+    border: 5px solid rgb(73, 73, 208);
+    border-radius: 5px;
+    background-color: rgb(73, 73, 208);
+    color: white;
+}
+
+select option {
+    color: white;
+}
+
+.hlop {
+    background-color: rgb(73, 73, 208);
+    padding: 5px;
+    color: white;
+    border: rgb(73, 73, 208);
+    border-radius: 15px;
+}
+
+.pet {
+    background-color: rgb(73, 73, 208);
+    padding: 5px;
+    color: white;
+    border: rgb(73, 73, 208);
+    border-radius: 15px;
+}
+
+.fon {
+    background-color: rgb(73, 73, 208);
+    padding: 5px;
+    color: white;
+    border: rgb(73, 73, 208);
+    border-radius: 15px;
+    
+}
+
+.fes {
+    background-color: rgb(73, 73, 208);
+    padding: 5px;
+    color: white;
+    border: rgb(73, 73, 208);
+    border-radius: 15px;
+}
+
+.adad {
+    font-size:20px;
+}
+
+.kak {
+    color: rgb(73, 73, 208);
+}
+
+.kon {
+    text-decoration: none;
+    border: 3px solid rgb(73, 73, 208);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.nave {
+    text-decoration: none;
+    border: 3px solid rgb(73, 73, 208);
+    border-radius: 5px;
+    padding: 5px;
+}
